@@ -56,7 +56,7 @@ Follow the instructions on the website: Ollama Installation Instruction
     ```
     For more information , follow link https://github.com/ollama/ollama
 
-### **Mixtral 8x7b with OpenLLM: Installation and Usage Guide**
+### **Mixtral 8x7b with OpenLLM: Installation and Usage Guide (In Development)** 
 
 This Markdown outlines the steps to install Mixtral 8x7b model using OpenLLM, and interact with it via the shell prompt or REST API.
 
